@@ -54,3 +54,5 @@ print(f"字符串{my_str}被替换空格后变成{new_my_str}")
 #把字符串中的|去掉
 new_my_str_list = new_my_str.split("|")
 print(f"字符串{new_my_str}按照|分隔变成{new_my_str_list}")
+
+#hello
