@@ -21,3 +21,5 @@ file_util.py(文件处理相关工具，内含：)
 函数： append_to_file(file_name，data)，接收文件路径以及传入数据，将数据追加写入到文件中
 """
 import TestUnit
+import TestUnit.file_util
+TestUnit.file_util
